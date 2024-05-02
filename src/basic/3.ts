@@ -1,0 +1,1 @@
+let param: string | number;
